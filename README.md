@@ -8,4 +8,4 @@ Projeto realizado durante a NLW#5 trilha React.js.
  - Manipulação de datas com date-fns
  - Typescript
  - Manipulação da tag audio
- - Deploy na plataforma Vercel
+ - Deploy na plataforma Vercel - https://podcastr-jhso.vercel.app/
